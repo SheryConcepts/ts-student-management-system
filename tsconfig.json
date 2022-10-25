@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "module": "es6",
+        "moduleResolution": "node",
+        "target": "es2021",
+        "strict": true
+    },
+    "ts-node": {
+        "esm": true
+    }
+}
